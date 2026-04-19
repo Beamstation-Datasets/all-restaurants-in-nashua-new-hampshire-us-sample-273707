@@ -1,6 +1,6 @@
 # All Restaurants in Nashua, New Hampshire, US
 
-> Free BeamStation sample export with 39 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `273707` |
 | Location | Nashua |
 | Category | Restaurants |
-| Full dataset size | 390 records |
-| Free sample size | 39 records (10.0%) |
-| Last export | 2026-04-09T09:26:23.717264+00:00 |
+| Full dataset size | 381 records |
+| Free sample size | 38 records (9.97%) |
+| Last export | 2026-04-16T09:24:32.083787+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-nashua-new-hampshire-us-sample-273707/releases/download/sample-latest/beamstation_273707_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
