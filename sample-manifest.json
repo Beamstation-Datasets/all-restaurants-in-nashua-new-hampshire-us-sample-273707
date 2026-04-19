@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f8eb4ccf-e927-4935-bc74-3c75c4808c12",
+  "export_job_id": "f11aef7b-809d-499b-9a3f-5918b6a2f4a4",
   "id_short": 273707,
-  "published_at": "2026-04-12T19:02:12Z",
+  "published_at": "2026-04-19T19:29:14Z",
   "repo_name": "all-restaurants-in-nashua-new-hampshire-us-sample-273707",
   "sample_asset_name": "beamstation_273707_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/273707/beamstation_273707_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "87320063b81194577e2679e780bbdd431cba857e0ff4b932a404f63612b598ec",
-  "sample_size_bytes": 152040,
-  "total_records": 390
+  "sample_records": 38,
+  "sample_sha256": "ec684d7f36670617e06fbbd3ac2870d49e5a6ed1eea5c2cf160b6b6b66c6f1ba",
+  "sample_size_bytes": 151208,
+  "total_records": 381
 }
